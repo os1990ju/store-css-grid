@@ -11,17 +11,14 @@
 }
 
 .encabezado {
-background-color: burlywood;
 grid-area: encabezado;
     
 }
 .contenido {
-background-color: chartreuse;
 grid-area: contendio;
 }
 
 .rodapie { 
-background-color: #4e4444;
 grid-area: rodapie;
     
 }
